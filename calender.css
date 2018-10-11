@@ -4,11 +4,8 @@ body {
     margin:8px;
 }
 
-.head {
-    text-align:center;
-}
-
 table {
+    margin:0 auto;
     table-layout: fixed;
     width:70%;
     display:table;
@@ -89,4 +86,28 @@ ul {
     padding:5px;
     margin:5px 0;
     background-color: #ba9ce8;
+}
+
+.birthday {
+    border-radius:5px;
+    color:#10171C;
+    padding:5px;
+    margin:5px 0;
+    background-color: #Afffad;
+}
+
+.appointment {
+    border-radius:5px;
+    color:#10171c;
+    padding:5px;
+    margin: 5px 0;
+    background-color: #ff7e6d;
+}
+
+.holiday {
+    border-radius:5px;
+    color:#10171c;
+    padding:5px;
+    margin:5px 0;
+    background-color:#e8e193;
 }
